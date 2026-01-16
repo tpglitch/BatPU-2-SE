@@ -19,7 +19,7 @@ Add to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-batpu2-se = { path = "../BatPU-2-SE" }
+batpu2-se = { git = "https://github.com/tpglitch/BatPU-2-SE" }
 ```
 
 ## Usage
