@@ -1,0 +1,12 @@
+[package]
+name = "batpu2-se"
+version = "1.0.0"
+edition = "2024"
+
+[lib]
+name = "batpu2_se"
+path = "src/lib.rs"
+
+[dependencies]
+fastnbt = "2.5.0"
+flate2 = "1.1.2"
